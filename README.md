@@ -1,2 +1,2 @@
 # ToDo-App
-A CRUD ToDo Project
+A responsive CRUD ToDo Project
