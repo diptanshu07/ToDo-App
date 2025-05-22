@@ -1,2 +1,2 @@
-# ToDo-App
-A responsive CRUD ToDo Project
+# Day Planner App
+A responsive CRUD Day Planning Project
